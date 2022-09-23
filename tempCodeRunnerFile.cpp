@@ -1,5 +1,6 @@
-vector<int> v;
-    // for(int i = 10000000; i>0;i--){
-    //     v.push_back(i);
-    // }
-    // sort(v.begin(),v.end());
+2 3 4
+1 1
+B 1 1 10
+B 2 1 100
+B 1 2 99
+B 2 2 100
